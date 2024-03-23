@@ -163,7 +163,7 @@ header #headline:before {
 
 header #headline:after {
 
-  content: "здесь текст постописания";
+  content: "стань лучшим репером города";
 
   position: absolute;
 
@@ -466,4 +466,12 @@ input:checked + .slider:before {
 
   flex-wrap: wrap;
 
+}
+.resize {
+	margin-top: -150px;
+
+ margin-left: -110px;
+
+ width: 20%;
+ 
 }
